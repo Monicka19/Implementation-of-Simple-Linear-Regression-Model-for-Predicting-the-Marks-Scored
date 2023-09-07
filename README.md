@@ -91,6 +91,8 @@ print('Values of MSE')
 ```
 
 ## Output:
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/58070106-066f-4e2a-942b-45c3e14f31d9)
+
 ![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/cdc9dcf8-6803-4d23-99b3-e5e44a2cafbd)
 
 
