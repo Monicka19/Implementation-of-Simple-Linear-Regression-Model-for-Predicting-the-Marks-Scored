@@ -92,8 +92,19 @@ print('Values of MSE')
 
 ## Output:
 ![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/58070106-066f-4e2a-942b-45c3e14f31d9)
-
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/748b2b7e-3032-4059-9f51-fe254b078af0)
 ![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/cdc9dcf8-6803-4d23-99b3-e5e44a2cafbd)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/8ce69f68-d9cc-4c21-9205-9afc7d586c53)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/c2ad4933-476a-471f-a799-b91e497b6d40)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/8dfc3551-f117-4e33-b79e-b1f13a99863e)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/7fa90424-4755-4f9d-85a7-9ec810bbbf63)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/bf85e4ce-07a4-495a-bdb3-59f7b9271e2b)
+![image](https://github.com/Monicka19/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/143497806/4c17ecef-55df-4ce7-8495-2446cf53f1bf)
+
+
+
+
+
 
 
 ## Result:
